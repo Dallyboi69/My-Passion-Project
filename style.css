@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #af7029;
+    color: #333;
+}
+
+nav {
+    background-color: #4CAF50;
+    padding: 1em;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+.content {
+    background-color: #dbc3c3;
+    padding: 20px;
+    border-radius: 5px;
+    margin: 20px;
+}
+
+h1 {
+    font-family: 'Georgia', serif;
+    color: #2c3e50;
+}
+
+p {
+    font-size: 16px;
+}
+
+img {
+    width: 100%;
+    max-width: 500px;
+    height: auto;
+    border: 2px solid #ccc;
+}
+
